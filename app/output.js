@@ -1,4 +1,4 @@
-var DIRECTIONS = require('./constants/directions').out;
+var DIRECTIONS = require('./factors/directions').out;
 
 module.exports = function(rovers) {
 	var output = '';
